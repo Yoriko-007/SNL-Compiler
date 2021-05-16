@@ -1,0 +1,8 @@
+﻿  ConsoleApplicationyoriko.cpp
+E:\Program_file\vsfile\ConsoleApplicationyoriko\ConsoleApplicationyoriko\doToken.h(135,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\Program_file\vsfile\ConsoleApplicationyoriko\ConsoleApplicationyoriko\doToken.h(243,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\Program_file\vsfile\ConsoleApplicationyoriko\ConsoleApplicationyoriko\doToken.h(255,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\Program_file\vsfile\ConsoleApplicationyoriko\ConsoleApplicationyoriko\doGrammerll1.h(1253,26): warning C4805: “==”: 在操作中将类型“int”与类型“bool”混合不安全
+E:\Program_file\vsfile\ConsoleApplicationyoriko\ConsoleApplicationyoriko\ConsoleApplicationyoriko.cpp(20,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\Program_file\vsfile\ConsoleApplicationyoriko\ConsoleApplicationyoriko\doSemantic.h(593): warning C4715: “Semantic::Expr”: 不是所有的控件路径都返回值
+  ConsoleApplicationyoriko.vcxproj -> E:\Program_file\vsfile\ConsoleApplicationyoriko\Debug\ConsoleApplicationyoriko.exe
